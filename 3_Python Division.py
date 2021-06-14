@@ -29,3 +29,8 @@
 # Sample Output 0
 # 1
 # 1.33333333
+
+a = int(input("Enter a number: "))
+b = int(input("Enter a number: "))
+print(a//b)
+print(a/b)
