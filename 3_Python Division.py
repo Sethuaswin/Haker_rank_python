@@ -1,4 +1,4 @@
-# Question 3:
+# Question 3 - Python Division:
 # Task
 # The provided code stub reads two integers, and , from STDIN.
 #
