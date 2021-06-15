@@ -1,4 +1,4 @@
-# Question 2:
+# Question 2 - Arithmetic Operators:
 # Task
 # The provided code stub reads two integers from STDIN, and . Add code to print three lines where:
 #
